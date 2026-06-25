@@ -1,0 +1,31 @@
+// Dados do bingo
+let nomeEvento = "Bingo Beneficente";
+const totalNumeros = 75;
+let numerosSorteados = 0;
+let jogoTerminou = false
+
+//Exibição tela 
+ function menu() {
+console.log ("==== BEM VINDO AO BINGO JS ====");
+console.log("1 - Sortear proximo numero");
+console.log("2 - verificar status do jogo");
+console.log("3 - Sair");
+
+rl.question("", (opcao) => {
+    opcao = Number(opcao);
+
+    //tomada de decisão
+    if (opcao === 1) {
+        rl.question
+
+// Cálculo dos números restantes
+let numerosRestantes = totalNumeros - numerosSorteados;
+
+
+// Situação do jogo
+let jogoTerminado = false;
+
+// Exibição das informações
+console.log("Números que faltam sortear: " + numerosRestantes);
+console.log("O jogo terminou? " + jogoTerminado);
+console.log("Evento: " + nomeEvento + " | Total de números sorteados: " + numerosSorteados);9 
