@@ -1,0 +1,3 @@
+O que é lógica de programação? 
+
+A lógica é o alicerce de qualquer código. Ela não depende da linguagem, mas sim da sua capacidade de estruturar passos ordenados para chegar a um resultado. Em vez de apenas decorar comandos, você aprende a "pensar como um computador", dividindo problemas complexos em etapas simples
