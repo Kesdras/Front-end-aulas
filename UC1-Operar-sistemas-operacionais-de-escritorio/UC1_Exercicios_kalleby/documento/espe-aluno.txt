@@ -1,7 +1,0 @@
-Nome do dispositivo	EDU-M70815
-Processador	Intel(R) Core(TM) i5-14500 (2.60 GHz)
-RAM instalada	32,0 GB (utilizável: 31,7 GB)
-ID do dispositivo	26737261-7705-4EB2-9B88-77F546E298DC
-ID do Produto	00330-80000-00000-AA570
-Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64
-Caneta e toque	Nenhuma entrada à caneta ou por toque disponível para este vídeo
